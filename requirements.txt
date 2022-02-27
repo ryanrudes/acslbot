@@ -3,3 +3,4 @@ requests
 discord
 python-dotenv
 markdownify
+bs4
