@@ -2,3 +2,4 @@ pandas
 requests
 discord
 python-dotenv
+markdownify
