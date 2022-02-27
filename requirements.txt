@@ -4,3 +4,4 @@ discord
 python-dotenv
 markdownify
 bs4
+lxml
